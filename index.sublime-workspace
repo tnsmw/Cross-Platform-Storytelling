@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vertical",
+				"vertical-rl\twriting-mode"
+			],
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/koala/Documents/GitHub/Cross-Platform-Storytelling/css/style.css",
+		"/C/Users/koala/Documents/GitHub/Cross-Platform-Storytelling/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/posters/ver1.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/posters/ver3.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/posters/ver2.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/posters/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/posters/ver2.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/posters/ver3.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/style.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/index.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/posters/ver1.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/posters/ver1 - Copy.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/posters/Ver3/poster.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/css/poster.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/projects/poster/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/now.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/statement.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/about.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/collection/living-collection.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/main.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Darkness/sketch.js",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Darkness/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Chaotic_balls/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Flossy_burst/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Flossy_burst/style.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Darkness/style.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/Chaotic_balls/style.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/living-collection.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/p5js-experiments/flashlight.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/p5js examples/Color_Brightness_2020_11_09_05_27_16/style.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/css/living-collection.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/projects/collection/living-collection.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/expressive-5.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/expressive5.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/expressive4.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/expressive-4.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/expressive3.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/expressive-3.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/expressive2.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/standard-5.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/standard5.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/standard4.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/standard-4.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/standard3.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/standard-3.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/expressive-2.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/expressive1.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/css/tv-expressive.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/type-variations/standard2.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/standard-2.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/standard-1.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/expressive-1.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/typevariation2.css",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/projects/type-variations/altered-index.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/projects/type-variations/article-expressive.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/css/typevariation.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/projects/index.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/projects/type-variations/article-standard.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/css/style.css",
+		"/C/Users/koala/Desktop/index.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/web-components/index.html",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/css/variable-fonts.css",
+		"/C/Users/koala/Desktop/Core 1 Interaction/core-int-pucd-2035/core-int-pucd-2035/ds-example/index.html",
+		"/C/Users/koala/Desktop/core-int-pucd-2035/core-int-pucd-2035/index.html",
+		"/C/Users/koala/Desktop/core-int-pucd-2035/core-int-pucd-2035/assignments/index.html",
+		"/C/Users/koala/Desktop/core-int-pucd-2035/core-int-pucd-2035/projects/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/pure-css-bem-buttons/src/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/bem-buttons-example/dist/index.html",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/.gitattributes",
+		"/C/Users/koala/Documents/GitHub/core-int-pucd-2035/.DS_Store"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
